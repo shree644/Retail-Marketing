@@ -1,0 +1,4 @@
+rootProject.name = 'Retail-Marketing'
+include 'Food-Grocery-Service'
+include 'FunctionalTests'
+
